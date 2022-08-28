@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: powderblue;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+img,
+.img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    height: 400px;
+}
+
+img {
+    width: 600px;
+}
+
+.img2 {
+    width: 500px;
+}
+
